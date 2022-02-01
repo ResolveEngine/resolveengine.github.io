@@ -3,7 +3,7 @@ GIT-IGNORE
 
 # production
 build
-dist
+# dist # removed this from git ignore as github pages is serving from this folder
 test-dist
 test-dev
 coverage
